@@ -403,7 +403,3 @@ Para compartilhar dados entre componentes basta transferir os hooks, funções, 
         
         `git subtree push —prefix dist origin gh-pages`
         
-- no GitHub pages
-- Axios para requisições de servidor no react
-
-[https://www.youtube.com/watch?v=pDbcC-xSat4](https://www.youtube.com/watch?v=pDbcC-xSat4)
